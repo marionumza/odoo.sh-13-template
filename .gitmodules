@@ -1,34 +1,34 @@
 [submodule "ingadhoc/account-payment"]
 	path = ingadhoc/account-payment
-	url = git@github.com:ingadhoc/account-payment.git
+	url = https://github.com/ingadhoc/account-payment.git
 	branch = 13.0
 
 [submodule "ingadhoc/account-financial-tools"]
 	path = ingadhoc/account-financial-tools
-	url = git@github.com:ingadhoc/account-financial-tools.git
+	url = https://github.com/ingadhoc/account-financial-tools.git
 	branch = 13.0
 
 [submodule "ingadhoc/odoo-argentina"]
 	path = ingadhoc/odoo-argentina
-	url = git@github.com:ingadhoc/odoo-argentina.git
+	url = https://github.com/ingadhoc/odoo-argentina.git
 	branch = 13.0
 
 [submodule "ingadhoc/argentina-sale"]
 	path = ingadhoc/argentina-sale
-	url = git@github.com:ingadhoc/argentina-sale.git
+	url = https://github.com/ingadhoc/argentina-sale.git
 	branch = 13.0
 
 [submodule "ingadhoc/stock"]
 	path = ingadhoc/stock
-	url = git@github.com:ingadhoc/stock.git
+	url = https://github.com/ingadhoc/stock.git
 	branch = 13.0
 
 [submodule "oca/web"]
 	path = oca/web
-	url = git@github.com:oca/web.git
+	url = https://github.com/oca/web.git
 	branch = 13.0
 
 [submodule "ingadhoc/aeroo_reports"]
 	path = ingadhoc/aeroo_reports
-	url = git@github.com:ingadhoc/aeroo_reports.git
+	url = https://github.com/ingadhoc/aeroo_reports.git
 	branch = 13.0
